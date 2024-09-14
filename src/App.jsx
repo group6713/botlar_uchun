@@ -1,9 +1,9 @@
-
+import Oybek from "./Components/Oybek/Oybek"
 
 function App() {
    return (
     <>
-    salom
+      <Oybek />
     </>
   )
 }
