@@ -1,9 +1,9 @@
-
+import Doniyor from "./Components/Doniyor/Doniyor"
 
 function App() {
    return (
     <>
-    salom
+    <Doniyor/>
     </>
   )
 }
