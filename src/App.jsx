@@ -7,9 +7,10 @@ function App() {
    return (
     <>
 
-    <Doniyor/>
-      <Oybek />
 
+      <Oybek />
+      <Doniyor/>
+      
     </>
   )
 }
