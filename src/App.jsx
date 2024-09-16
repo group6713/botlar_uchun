@@ -1,9 +1,9 @@
-
+import Ma from './components/Ma'
 
 function App() {
    return (
     <>
-    salom
+    <Ma />
     </>
   )
 }
