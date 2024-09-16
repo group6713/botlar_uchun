@@ -1,7 +1,6 @@
 <<<<<<< HEAD
-import Ma from './components/Ma'
-=======
 
+import Ma from "./components/Ma/Ma"
 import Doniyor from "./Components/Doniyor/Doniyor"
 import Oybek from "./Components/Oybek/Oybek"
 
@@ -10,14 +9,11 @@ import Oybek from "./Components/Oybek/Oybek"
 function App() {
    return (
     <>
-<<<<<<< HEAD
-    <Ma />
-=======
 
+    <Ma />
     <Doniyor/>
       <Oybek />
 
->>>>>>> 9915c4cd1575123caa6aeed4c139e13d20f7aac5
     </>
   )
 }
