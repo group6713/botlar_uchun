@@ -1,4 +1,5 @@
 
+import Ma from "./components/Ma/Ma"
 import Doniyor from "./Components/Doniyor/Doniyor"
 import Oybek from "./Components/Oybek/Oybek"
 
@@ -8,9 +9,10 @@ function App() {
     <>
 
 
+    <Ma />
+    <Doniyor/>
       <Oybek />
-      <Doniyor/>
-      
+
     </>
   )
 }

@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    height: 80px;  
+    align-items: center;
+    color: white;
+    gap: 250px;
+}
+nav img{
+    height: 40px;
+}
+nav button{
+    height: 40px;
+    width: 120px;
+    background-color: rgb(100, 3, 124);
+    border-radius: 10px;
+     border: 0px;
+     color: white;
+}
+.wr{
+    display: flex;
+    align-items: center;
+    color: white;
+    gap: 25px;
+    border: 1px solid rgb(63, 63, 63);
+    border-radius: 50px;
+    justify-content: center;
+    width: 580px;
+}
+.w{
+    background-color: black;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
